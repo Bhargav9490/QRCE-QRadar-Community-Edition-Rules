@@ -1,0 +1,1 @@
+# QRCE-QRadar-Community-Edition-Rules
