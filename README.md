@@ -1,9 +1,9 @@
-# QRCE-QRadar-Community-Edition-Rules
+# QRCE-QRadar-Rules
 
 ## Hi 👋, I'm Bhargav
 **SOC / Blue-Team Engineer @ Cyberlancers**
 
-- 🔭 I’m currently working on **QRCE – QRadar Community Edition Rule Pack** (this repo)
+- 🔭 I’m currently working on **QRCE – QRadar Rule Pack** (this repo)
 - 🤝 I’m looking to collaborate on **MITRE ATT&CK mapping** and **QRadar/Wazuh detection content**
 - 🙌 I’m looking for help with **test data & false-positive tuning** (AD, DNS, Proxy, SMB)
 - 📝 I share updates in Issues/PRs and on **[LinkedIn](https://www.linkedin.com/in/uppalapatibhargav/)**
